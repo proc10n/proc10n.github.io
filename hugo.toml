@@ -1,4 +1,4 @@
 baseURL = 'https://proc10n.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "procyon's blog"
 theme = 'dead-simple'
