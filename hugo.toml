@@ -2,3 +2,9 @@ baseURL = 'https://proc10n.github.io/'
 languageCode = 'en-us'
 title = "procyon's blog"
 theme = 'dead-simple'
+
+[markup.goldmark.extensions.passthrough]
+  enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+    block  = [['\[', '\]'], ['$$', '$$']]
+    inline = [['\(', '\)']]
