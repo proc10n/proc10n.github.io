@@ -1,0 +1,5 @@
++++
+date = '2026-05-19T21:32:01-03:00'
+draft = true
+title = 'Notas Manipuladores'
++++
